@@ -7,31 +7,8 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
-   sodipodi:docname="logo_filled_default.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="0.66031803"
-     inkscape:cx="383.90592"
-     inkscape:cy="776.14116"
-     inkscape:window-width="1205"
-     inkscape:window-height="1031"
-     inkscape:window-x="1"
-     inkscape:window-y="61"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <rect
@@ -41,8 +18,7 @@
        height="115.95489"
        id="rect10704" />
     <linearGradient
-       id="linearGradient4034"
-       inkscape:swatch="solid">
+       id="linearGradient4034">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
@@ -50,8 +26,6 @@
     </linearGradient>
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1">
     <rect
        style="fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:0.963042;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -64,13 +38,11 @@
        id="path3923"
        style="fill:#88d052;fill-opacity:1;stroke:none;stroke-width:4.7811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 281.21484,640.47266 c 91.24927,144.11539 84.73539,461.68934 100.6096,434.52614 0,0 5.68731,-333.61136 -100.6096,-434.52614 z"
-       transform="scale(0.26458333)"
-       sodipodi:nodetypes="ccc" />
+       transform="scale(0.26458333)" />
     <path
        style="fill:#88d052;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 51.985347,161.63913 c 0,0 20.717077,-10.15596 26.205599,3.51539 12.538399,31.23188 -26.205599,-3.51539 -26.205599,-3.51539 z"
-       id="path6804"
-       sodipodi:nodetypes="csc" />
+       id="path6804" />
     <circle
        style="mix-blend-mode:normal;fill:#ff2727;fill-opacity:1;stroke:none;stroke-width:1.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path7869"
@@ -84,8 +56,7 @@
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 27.443478,296.53029 c 0,0 29.122279,-48.21621 75.461452,-47.57705 46.33918,0.63916 79.3296,47.48196 79.3296,47.48196"
-       id="path8197"
-       sodipodi:nodetypes="csc" />
+       id="path8197" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,15.339866,156.91405)"
@@ -93,8 +64,8 @@
        style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10704);fill:#f7f7f7;fill-opacity:1;stroke:none"><tspan
          x="230.70117"
          y="471.68527"
-         id="tspan27753"><tspan
+         id="tspan1543"><tspan
            style="font-weight:bold;font-family:'.Arabic UI Display';-inkscape-font-specification:'.Arabic UI Display Bold'"
-           id="tspan27751">&gt; _</tspan></tspan></text>
+           id="tspan1541">&gt; _</tspan></tspan></text>
   </g>
 </svg>
