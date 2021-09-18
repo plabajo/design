@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96.639862mm"
+   height="96.639862mm"
+   viewBox="0 0 96.639862 96.639862"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-58.096837,-87.293338)">
+    <path
+       id="path862"
+       style="fill:#88b6c6;stroke:#333333;stroke-width:0.85;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="m 154.16027,135.61327 a 47.743507,47.743507 0 0 1 -47.7435,47.7435 47.743507,47.743507 0 0 1 -47.743503,-47.7435 47.743507,47.743507 0 0 1 47.743503,-47.743502 47.743507,47.743507 0 0 1 47.7435,47.743502 z" />
+    <path
+       id="path862-86-5"
+       style="fill:#43a05f;stroke:#333333;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="m 94.22862,105.83634 -1.120632,1.86771 c 0,0 2.054611,8.40536 2.054611,12.51455 0,4.1092 0.613255,13.00156 0.613255,13.00156 0,0 0.07272,1.67422 -0.599517,4.43159 a 37.487521,38.848884 0 0 0 -26.14665,27.95017 48.562516,48.562516 0 0 0 37.240453,17.43932 48.562516,48.562516 0 0 0 35.66384,-15.60736 37.487521,38.848884 0 0 0 -10.45378,-20.16023 10.450807,10.450807 0 0 0 5.82061,-9.36513 10.450807,10.450807 0 0 0 -10.45094,-10.4507 10.450807,10.450807 0 0 0 -10.4507,10.4507 10.450807,10.450807 0 0 0 0.001,0.0332 37.487521,38.848884 0 0 0 -11.14023,-1.75591 37.487521,38.848884 0 0 0 -5.860874,0.514 c -0.578872,-4.18531 -1.808502,-13.50917 -1.808502,-17.22849 0,-4.85632 -3.362131,-13.63495 -3.362131,-13.63495 z" />
+    <path
+       style="fill:#43a05f;stroke:#333333;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="m 98.959777,114.96167 c 0,0 2.988503,-8.21839 11.206883,-11.58045 8.21839,-3.36206 15.87642,-0.56034 15.87642,-0.56034 0,0 -1.86781,7.09769 -10.45976,11.0201 -8.59194,3.92241 -16.623543,1.12069 -16.623543,1.12069 z"
+       id="path1470" />
+    <path
+       style="fill:#43a05f;stroke:#333333;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="m 90.556249,106.57761 c 0,0 -1.196115,-3.28932 -4.485433,-4.63495 -3.289314,-1.34563 -6.35436,-0.22427 -6.35436,-0.22427 0,0 0.747572,2.84078 4.186401,4.41068 3.43883,1.5699 6.653392,0.44854 6.653392,0.44854 z"
+       id="path1470-6" />
+    <circle
+       style="fill:#cf4f43;fill-opacity:0.992147;stroke:none;stroke-width:1.22988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path22472"
+       cx="126.85582"
+       cy="137.93332"
+       r="10.203856" />
+    <path
+       id="path862-1"
+       style="fill:#4b4b4b;fill-opacity:0.97000003;stroke:#333333;stroke-width:1.8897638;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 176.25 182.37695 A 144.53148 144.53148 0 0 0 36.917969 288.86328 A 180.4479 180.4479 0 0 0 182.62695 363.07422 A 180.4479 180.4479 0 0 0 318.47656 301.21289 A 144.53148 144.53148 0 0 0 176.25 182.37695 z "
+       transform="matrix(0.26458333,0,0,0.26458333,58.096837,87.293338)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.2555px;line-height:1.25;font-family:'Fira Code', mediu;-inkscape-font-specification:'Fira Code, mediu';fill:#88b6c6;fill-opacity:1;stroke:none;stroke-width:0.458371;stroke-miterlimit:4;stroke-dasharray:none"
+       x="90.38945"
+       y="165.06012"
+       id="text3314"><tspan
+         id="tspan3312"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.2555px;font-family:'Fira Code', mediu;-inkscape-font-specification:'Fira Code, mediu';fill:#88b6c6;fill-opacity:1;stroke:none;stroke-width:0.458371;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="90.38945"
+         y="165.06012">&gt;_</tspan></text>
+  </g>
+</svg>
