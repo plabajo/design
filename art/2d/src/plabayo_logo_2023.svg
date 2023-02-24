@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="plabayo_logo_2023.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.44542649"
+     inkscape:cx="75.208819"
+     inkscape:cy="323.28567"
+     inkscape:window-width="1746"
+     inkscape:window-height="577"
+     inkscape:window-x="108"
+     inkscape:window-y="217"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#f9f9f9;stroke-width:0.25875;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect17628"
+       width="106.35883"
+       height="105.12925"
+       x="-3.5804157"
+       y="-2.3716249"
+       ry="2.1135814"
+       inkscape:export-filename="/Users/glendc/code/github.com/plabayo/design/art/2d/bin/plabayo_logo_2023.png"
+       inkscape:export-xdpi="238.23"
+       inkscape:export-ydpi="238.23" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:91.9113px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';stroke-width:0.344666"
+       x="11.159754"
+       y="85.87973"
+       id="text2828"
+       inkscape:export-filename="/Users/glendc/code/github.com/plabayo/design/art/2d/bin/plabayo_logo_2023.png"
+       inkscape:export-xdpi="238.23"
+       inkscape:export-ydpi="238.23"><tspan
+         sodipodi:role="line"
+         id="tspan2826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.9113px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';stroke-width:0.344666"
+         x="11.159754"
+         y="85.87973">:P</tspan></text>
+  </g>
+</svg>
