@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="plabayo_logo_big_dark_grey.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.44542649"
+     inkscape:cx="-505.13386"
+     inkscape:cy="365.94142"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1027"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.514314;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="M 24.775977,5.388e-5 C 17.000978,5.388e-5 10.7415,6.2595273 10.7415,14.034529 v 24.176094 c 0,0.177383 0.0045,0.353937 0.01113,0.529689 v 47.23186 C 10.75263,93.743921 17.009815,100 24.781568,100 h 1.876064 c 7.77175,0 14.027831,-6.256079 14.027831,-14.027828 -0.09965,-10.834882 -0.04765,-21.951303 -0.04765,-32.901513 0,-4.44143 3.574791,-8.016221 8.016221,-8.016221 h 2.690543 c 4.162287,0 7.564044,3.1404 7.975219,7.190664 0.134793,11.566958 0.0056,23.556236 0.0056,33.715989 0,7.77175 6.257193,14.027832 14.028941,14.027832 h 1.876066 c 7.771749,0 14.02783,-6.256082 14.02783,-14.027832 V 38.210623 14.034529 c 0,-0.485935 -0.02428,-0.966521 -0.07203,-1.439462 -0.01202,-0.118562 -0.02509,-0.235841 -0.03988,-0.353489 -1.82e-4,-0.0018 1.88e-4,-0.0028 0,-0.0045 C 88.330836,5.7847821 83.165988,0.72596693 76.663229,0.07206966 76.546812,0.06028048 76.430311,0.0488425 76.31306,0.03992164 c -0.0018,-1.3698e-4 -0.0039,1.3696e-4 -0.0056,0 -0.117276,-0.0087806 -0.235422,-0.0160857 -0.353497,-0.02217351 -0.0018,-9.249e-5 -0.0039,9.249e-5 -0.0056,0 -0.117726,-0.0059709 -0.236108,-0.01030233 -0.354601,-0.01329939 -0.0023,-5.502e-5 -0.0045,5.386e-5 -0.0067,0 C 75.468543,0.00140534 75.349495,1.1686e-4 75.230247,0 h -0.0067 z M 30.499473,2.2462346 A 14.185693,14.185693 0 0 1 44.68466,16.431416 14.185693,14.185693 0 0 1 30.499473,30.617711 14.185693,14.185693 0 0 1 16.313184,16.431416 14.185693,14.185693 0 0 1 30.499473,2.2462346 Z" />
+  </g>
+</svg>

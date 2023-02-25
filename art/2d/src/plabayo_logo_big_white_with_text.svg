@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="plabayo_logo_big_white_with_text.svg"
+   inkscape:export-filename="/Users/glendc/code/github.com/plabayo/design/art/2d/bin/plabayo_logo_big_white_with_text.png"
+   inkscape:export-xdpi="508"
+   inkscape:export-ydpi="508"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.44542649"
+     inkscape:cx="-505.13386"
+     inkscape:cy="365.94142"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="94.291654"
+       y="253.68945"
+       width="251.44441"
+       height="121.23213"
+       id="rect5511" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1027"
+       style="fill:#ffffff;stroke:none;stroke-width:0.308588;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="m 34.86569,7.4083387 c -4.665003,0 -8.42069,3.7556863 -8.42069,8.4206913 v 14.505667 c 0,0.106429 0.0027,0.212362 0.0067,0.317814 v 28.339131 c 0,4.663052 3.754313,8.416701 8.417366,8.416701 h 1.125639 c 4.663054,0 8.416704,-3.753649 8.416704,-8.416701 -0.05979,-6.500933 -0.02859,-13.17079 -0.02859,-19.740919 0,-2.66486 2.144875,-4.809736 4.809734,-4.809736 h 1.614328 c 2.497373,0 4.538429,1.884242 4.785133,4.314401 0.08088,6.940179 0.0034,14.13375 0.0034,20.229604 0,4.663054 3.754319,8.416704 8.417369,8.416704 h 1.12564 c 4.663053,0 8.416702,-3.75365 8.416702,-8.416704 V 30.334697 15.82903 c 0,-0.29156 -0.01456,-0.579912 -0.04321,-0.863677 -0.0072,-0.07113 -0.01506,-0.141504 -0.02393,-0.212094 -1.09e-4,-0.0011 1.12e-4,-0.0017 0,-0.0027 -0.489293,-3.871383 -3.588203,-6.9066732 -7.489861,-7.2990113 -0.06984,-0.00702 -0.139751,-0.013943 -0.210101,-0.01929 -10e-4,-8.28e-5 -0.0023,8.18e-5 -0.0034,0 -0.07037,-0.00535 -0.141254,-0.00964 -0.212098,-0.013304 -0.001,-5.55e-5 -0.0023,5.56e-5 -0.0034,0 -0.07063,-0.00356 -0.141664,-0.00619 -0.21276,-0.00797 -0.0014,-3.36e-5 -0.0027,3.14e-5 -0.0041,0 -0.07111,-0.00189 -0.14254,-0.00252 -0.214089,-0.00262 h -0.0041 z m 3.434099,1.3477081 a 8.5114205,8.5114205 0 0 1 8.511117,8.5111182 8.5114205,8.5114205 0 0 1 -8.511117,8.511781 8.5114205,8.5114205 0 0 1 -8.511778,-8.511781 8.5114205,8.5114205 0 0 1 8.511778,-8.5111182 z"
+       inkscape:export-filename="/Users/glendc/code/github.com/plabayo/design/art/2d/bin/plabayo_logo_bin_dark_grey.png"
+       inkscape:export-xdpi="508"
+       inkscape:export-ydpi="508" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5509"
+       style="line-height:1.25;font-family:'Fira Code';font-weight:500;font-size:40px;-inkscape-font-specification:'Fira Code Medium';white-space:pre;shape-inside:url(#rect5511);fill:#4d4d4d" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:24.6521px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';stroke-width:0.616303;fill:#ffffff"
+       x="3.3166854"
+       y="90.25695"
+       id="text7277"><tspan
+         sodipodi:role="line"
+         id="tspan7275"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.616303;fill:#ffffff"
+         x="3.3166854"
+         y="90.25695">plabayo</tspan></text>
+  </g>
+</svg>
